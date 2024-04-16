@@ -1,4 +1,4 @@
-# curso-rodrigo
+# repo de git hub
 primer repo creado en git hub
 
 ## descripción
